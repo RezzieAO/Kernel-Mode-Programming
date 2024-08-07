@@ -1,6 +1,5 @@
 #pragma warning (disable : 4100)
 
-//#include "main.h"
 #include <ntifs.h>
 #include <ntstrsafe.h>
 #include <ntddk.h>
